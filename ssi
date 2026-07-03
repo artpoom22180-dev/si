@@ -1,0 +1,20 @@
+Sriracha-Hunt/
+│
+├── package.json
+├── server.js
+├── .gitignore
+│
+└── public/
+    ├── index.html
+    ├── client.js
+    ├── style.css
+    │
+    ├── assets/
+    │   ├── player.png
+    │   ├── npc.png
+    │   ├── food.png
+    │   └── map.png
+    │
+    └── data/
+        └── checkpoints.json
+        
